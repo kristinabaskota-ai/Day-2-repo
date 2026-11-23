@@ -1,1 +1,1 @@
-Print ("This is Day 2 git repo practice.")
+Print ("Hello from developer A")
